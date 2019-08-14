@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":1920,"height":1080},"compId":2,"child":[{"type":"Sprite","props":{"var":"canvas"},"compId":3,"child":[{"type":"Sprite","props":{"var":"bg","texture":"game_scene_1/chenghuangmiao.png"},"compId":4}]}],"loadList":["game_scene_1/chenghuangmiao.png"],"loadList3D":[]}
